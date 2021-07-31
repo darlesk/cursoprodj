@@ -1,2 +1,3 @@
 desde la pc local
 cambios que se estan realizando en mismo archivo local
+cambios que se estan realizando en mismo archivo remoto
